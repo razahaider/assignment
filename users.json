@@ -1,0 +1,29 @@
+[{
+        "id": 1,
+        "name": "first user",
+        "address": null,
+        "designation": null,
+        "age": null
+    },
+    {
+        "id": 2,
+        "name": "updated user",
+        "address": "India",
+        "designation": "engineer",
+        "age": null
+    },
+    {
+        "id": 3,
+        "name": "updated user",
+        "address": "India",
+        "designation": "engineer",
+        "age": null
+    },
+    {
+        "id": 4,
+        "name": "updated user",
+        "address": "India",
+        "designation": "engineer",
+        "age": null
+    }
+]
